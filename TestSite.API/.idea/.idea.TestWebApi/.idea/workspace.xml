@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05574a6a-4edd-4a09-b8d6-8b537b0c0906" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/GetConfirmEmail/GetConfirmEmailRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/GetConfirmEmail/GetConfirmEmailResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PostForgotPassword/PostForgotPasswordRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PostLogin/PostLoginRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PostLogin/PostLoginResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PostRegister/PostRegisterRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PutResetPassword/PutResetPasswordRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/Auth/PutResetPassword/PutResetPasswordResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/User/GetUser/GetUserResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Contracts/User/GetUserById/GetUserByIdResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/GetConfirmEmail/GetConfirmEmailQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/GetConfirmEmail/GetConfirmEmailQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostForgotPassword/PostForgotPasswordCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostForgotPassword/PostForgotPasswordCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostLogin/PostLoginCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostLogin/PostLoginCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostLogout/DeleteLogoutCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostLogout/DeleteLogoutCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostRegister/PostRegisterCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PostRegister/PostRegisterCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PutResetPassword/PutResetPasswordCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/Auth/PutResetPassword/PutResetPasswordCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetLeaderboard/GetLeaderboardQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetLeaderboard/GetLeaderboardQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetUser/GetUserQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetUser/GetUserQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetUserById/GetUserByIdQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/GetUserById/GetUserByIdQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/PatchUpdateUserInfo/PatchUpdateUserInfoCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSite.API.Application/Features/Queries/User/PatchUpdateUserInfo/PatchUpdateUserInfoCommandHandler.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iyculPRsLrGmUC05Q7wZI7MCJs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Vlaze\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Vlaze\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Vlaze\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.TestWebApi: IIS Express">
+    <configuration name="TestWebApi: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TestWebApi/TestWebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="TestWebApi: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TestWebApi/TestWebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="http" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="TestWebApi: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TestWebApi/TestWebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="https" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05574a6a-4edd-4a09-b8d6-8b537b0c0906" name="Changes" comment="" />
+      <created>1720466487590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720466487590</updated>
+      <workItem from="1720466491161" duration="628000" />
+      <workItem from="1720467790227" duration="4735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+</project>

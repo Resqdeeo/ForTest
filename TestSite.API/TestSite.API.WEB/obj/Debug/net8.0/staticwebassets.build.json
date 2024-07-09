@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I4VujJGhdXgc8oW2t9PsRExUa1ScDIP6CwR2kgX8G4g=",
+  "Source": "TestSite.API.WEB",
+  "BasePath": "_content/TestSite.API.WEB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
