@@ -840,10 +840,19 @@
           "MediatR": "12.3.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
-          "Microsoft.AspNetCore.Identity.UI": "8.0.7"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "TestSite.API.Domain": "1.0.0"
         },
         "runtime": {
           "TestSite.API.Application.dll": {}
+        }
+      },
+      "TestSite.API.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.7"
+        },
+        "runtime": {
+          "TestSite.API.Domain.dll": {}
         }
       },
       "TestSite.API.Infrastructure/1.0.0": {
@@ -867,7 +876,8 @@
           "Microsoft.EntityFrameworkCore.Analyzers": "8.0.7",
           "Npgsql": "8.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.4",
-          "TestSite.API.Application": "1.0.0"
+          "TestSite.API.Application": "1.0.0",
+          "TestSite.API.Domain": "1.0.0"
         },
         "runtime": {
           "TestSite.API.Persistence.dll": {}
@@ -1477,6 +1487,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "TestSite.API.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestSite.API.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

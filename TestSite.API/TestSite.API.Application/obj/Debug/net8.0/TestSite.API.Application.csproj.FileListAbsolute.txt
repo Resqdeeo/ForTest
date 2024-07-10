@@ -11,3 +11,6 @@ C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\Tes
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\obj\Debug\net8.0\refint\TestSite.API.Application.dll
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\obj\Debug\net8.0\TestSite.API.Application.pdb
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\obj\Debug\net8.0\ref\TestSite.API.Application.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\bin\Debug\net8.0\TestSite.API.Domain.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\bin\Debug\net8.0\TestSite.API.Domain.pdb
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Application\obj\Debug\net8.0\TestSite.API.Application.csproj.CopyComplete

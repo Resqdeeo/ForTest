@@ -14,3 +14,5 @@ C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\Tes
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Infrastructure\obj\Debug\net8.0\refint\TestSite.API.Infrastructure.dll
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Infrastructure\obj\Debug\net8.0\TestSite.API.Infrastructure.pdb
 C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Infrastructure\obj\Debug\net8.0\ref\TestSite.API.Infrastructure.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Infrastructure\bin\Debug\net8.0\TestSite.API.Domain.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Infrastructure\bin\Debug\net8.0\TestSite.API.Domain.pdb

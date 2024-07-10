@@ -25,6 +25,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\TestSite.API.Application\TestSite.API.Application.csproj" />
+      <ProjectReference Include="..\TestSite.API.Domain\TestSite.API.Domain.csproj" />
     </ItemGroup>
 
 </Project>

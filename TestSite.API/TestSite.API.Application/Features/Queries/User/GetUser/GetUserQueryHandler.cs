@@ -10,8 +10,8 @@ namespace TestSite.API.Application.Features.Queries.User.GetUser;
 /// </summary>
 public class GetUserQueryHandler(
     UserManager<IdentityUser> userManager,
-    IUserContext userContext,
-    IDbContext dbContext)
+    IUserContext userContext
+    )
     : IRequestHandler<GetUserQuery, GetUserResponse>
 {
     /// <inheritdoc cref="IRequestHandler{TRequest,TResponse}"/>

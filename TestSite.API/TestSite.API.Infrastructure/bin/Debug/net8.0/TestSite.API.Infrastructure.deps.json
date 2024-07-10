@@ -403,10 +403,19 @@
           "MediatR": "12.3.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
-          "Microsoft.AspNetCore.Identity.UI": "8.0.7"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "TestSite.API.Domain": "1.0.0"
         },
         "runtime": {
           "TestSite.API.Application.dll": {}
+        }
+      },
+      "TestSite.API.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.7"
+        },
+        "runtime": {
+          "TestSite.API.Domain.dll": {}
         }
       }
     }
@@ -789,6 +798,11 @@
       "hashPath": "system.text.encodings.web.4.5.0.nupkg.sha512"
     },
     "TestSite.API.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestSite.API.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -945,13 +945,27 @@
           "MediatR": "12.3.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
-          "Microsoft.AspNetCore.Identity.UI": "8.0.7"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.7",
+          "TestSite.API.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TestSite.API.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/TestSite.API.Application.dll": {}
+        }
+      },
+      "TestSite.API.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.7"
+        },
+        "compile": {
+          "bin/placeholder/TestSite.API.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestSite.API.Domain.dll": {}
         }
       }
     }
@@ -2249,6 +2263,11 @@
       "type": "project",
       "path": "../TestSite.API.Application/TestSite.API.Application.csproj",
       "msbuildProject": "../TestSite.API.Application/TestSite.API.Application.csproj"
+    },
+    "TestSite.API.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TestSite.API.Domain/TestSite.API.Domain.csproj",
+      "msbuildProject": "../TestSite.API.Domain/TestSite.API.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
