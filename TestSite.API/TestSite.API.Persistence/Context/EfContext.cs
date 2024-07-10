@@ -42,6 +42,16 @@ public class EfContext : IdentityDbContext, IDbContext
     /// Набор данных для таблицы "Questions", представляющей вопросы.
     /// </summary>
     public DbSet<Question> Questions { get; set; }
+    
+    /// <summary>
+    /// Набор данных для таблицы Результаты тестов
+    /// </summary>
+    public DbSet<TestResult> TestResults { get; set; }
+    
+    /// <summary>
+    /// Набор данных для таблицы Ответы пользователей
+    /// </summary>
+    public DbSet<UserAnswer> UserAnswers { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -62,6 +72,12 @@ public class EfContext : IdentityDbContext, IDbContext
             .HasMany(q => q.Answers)
             .WithOne(a => a.Question)
             .HasForeignKey(a => a.QuestionId);
+        
+        // Настройка отношений между таблицей "TestResults" и таблицей "UserAnswers"
+        modelBuilder.Entity<TestResult>()
+            .HasMany(tr => tr.UserAnswers)
+            .WithOne(ua => ua.TestResult)
+            .HasForeignKey(ua => ua.TestResultId);
 
         base.OnModelCreating(modelBuilder);
     }

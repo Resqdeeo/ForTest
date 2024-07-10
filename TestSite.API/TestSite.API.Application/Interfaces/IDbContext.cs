@@ -27,6 +27,16 @@ public interface IDbContext
     public DbSet<Question> Questions { get; set; }
 
     /// <summary>
+    /// Набор данных для таблицы Результаты тестов
+    /// </summary>
+    public DbSet<TestResult> TestResults { get; set; }
+    
+    /// <summary>
+    /// Набор данных для таблицы Ответы пользователей
+    /// </summary>
+    public DbSet<UserAnswer> UserAnswers { get; set; }
+
+    /// <summary>
     /// Метод сохранения
     /// </summary>
     /// <param name="cancellationToken">Токен отмены</param>

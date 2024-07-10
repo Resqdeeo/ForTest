@@ -14,7 +14,9 @@ public class GetTestByIdQueryHandler(IDbContext dbContext) : IRequestHandler<Get
         if (request is null)
             throw new Exception();
 
-        var test = await dbContext.Tests.Include(t => t.Questions).ThenInclude(q => q.Answers)
+        var test = await dbContext.Tests.
+            Include(t => t.Questions).
+            ThenInclude(q => q.Answers)
             .FirstOrDefaultAsync(t => t.Id == request.Id, cancellationToken);
 
         if (test is null)

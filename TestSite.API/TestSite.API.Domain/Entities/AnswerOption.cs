@@ -23,7 +23,7 @@ public class AnswerOption : BaseEntity
     public Guid QuestionId { get; set; }
 
     /// <summary>
-    /// Ссылка на на сам вопрос
+    /// Ссылка на сам вопрос
     /// </summary>
     public Question Question { get; set; } = default!;
 }
