@@ -1,5 +1,4 @@
-﻿using TestSite.API.Application.Models;
-using TestSite.API.Domain.Entities;
+﻿using TestSite.API.Domain.Entities;
 
 namespace TestSite.API.Application.Contracts.Test.PassTest;
 

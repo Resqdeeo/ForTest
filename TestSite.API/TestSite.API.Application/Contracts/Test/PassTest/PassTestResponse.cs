@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using TestSite.API.Application.Models;
+﻿using TestSite.API.Application.Models;
 
 namespace TestSite.API.Application.Contracts.Test.PassTest;
 

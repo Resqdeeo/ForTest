@@ -1,0 +1,13 @@
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\bin\Debug\net8.0\TestSite.API.Domain.deps.json
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\bin\Debug\net8.0\TestSite.API.Domain.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\bin\Debug\net8.0\TestSite.API.Domain.pdb
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.csproj.AssemblyReference.cache
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.AssemblyInfoInputs.cache
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.AssemblyInfo.cs
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.sourcelink.json
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\refint\TestSite.API.Domain.dll
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\TestSite.API.Domain.pdb
+C:\Users\Vlaze\OneDrive\Рабочий стол\Project\ForTest\TestSite.API\TestSite.API.Domain\obj\Debug\net8.0\ref\TestSite.API.Domain.dll

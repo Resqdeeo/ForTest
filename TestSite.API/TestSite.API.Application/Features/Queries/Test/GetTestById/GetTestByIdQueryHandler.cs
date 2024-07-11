@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using TestSite.API.Application.Contracts.Test.GetTestById;
 using TestSite.API.Application.Interfaces;
 using TestSite.API.Application.Models;
-using TestSite.API.Domain.Entities;
 
 namespace TestSite.API.Application.Features.Queries.Test.GetTestById;
 
